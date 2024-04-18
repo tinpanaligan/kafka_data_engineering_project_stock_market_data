@@ -1,4 +1,4 @@
-**Project: Real-time Stock Market Data Pipeline**
+# Real-time Stock Market Data Pipeline
 
 ---
 
