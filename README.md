@@ -7,7 +7,8 @@
 This project is aimed at creating a real-time data pipeline for stock market data using Python, Apache Kafka, AWS EC2, and AWS S3. The pipeline simulates real-time stock market data using historical CSV data, processes it using Python scripts, sends it to an Apache Kafka cluster hosted on AWS EC2, and finally consumes the data into AWS S3 for storage and further analysis.
 
 
-![Kafka_Project_Architecture](https://github.com/tinpanaligan/kafka_data_engineering_project_stock_market_data/assets/116711183/c203a8fc-eabf-4767-9762-cb42c77eab5c)
+![Kafka_Project_Architecture](https://github.com/tinpanaligan/kafka_data_engineering_project_stock_market_data/assets/116711183/e40f1380-60d1-4d16-bb49-07d1e8abec9d)
+
 
 
 ---
