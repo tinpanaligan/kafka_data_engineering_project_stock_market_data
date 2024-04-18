@@ -60,6 +60,11 @@ This project is aimed at creating a real-time data pipeline for stock market dat
 
 ---
 
+## Project Documentation
+[Project Documentation - Apache Kafka Stock Market Data Engineering Project](https://alpine-dollar-b3b.notion.site/Project-Documentation-Apache-Kafka-Stock-Market-Data-Engineering-Project-da4053e35ba740f085608a95b00b117b)
+
+---
+
 ## Contributors
 
 - Tin Panaligan
